@@ -1,3 +1,5 @@
+GRN = "countries/North_German.txt"
+RUK = "countries/Russian_Khanate.txt"
 SGR = "countries/South_German.txt"
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"

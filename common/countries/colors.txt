@@ -1,4 +1,13 @@
 #reload countrycolors
+GRN = {
+	color = rgb { 26 26 26 }
+	color_ui = rgb { 13 13 13 }
+}
+
+RUK = {
+	color = rgb { 0 51 153 }
+	color_ui = rgb { 0 43 128 }
+}
 
 SGR = {
 	color = rgb { 119 136 153 }

@@ -1,0 +1,4 @@
+graphical_culture = east_european_gfx
+graphical_culture_2d = east_european_2d
+
+color = { 0 51 153 } #middle green
