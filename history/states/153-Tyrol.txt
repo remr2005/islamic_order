@@ -1,8 +1,7 @@
-
-state={
-	id=153
-	name="STATE_153"
-	history={
+state = {
+	id = 153
+	name = "STATE_153"
+	history = {
 		owner = SGR
 		victory_points = {
 			673 5 
@@ -12,14 +11,16 @@ state={
 			industrial_complex = 1
 			air_base = 3
 		}
+		add_core_of = AUS
 		add_core_of = SGR
-
+		controller = SGR
 	}
-	provinces={
+	provinces = {
 		668 671 673 3675 6673 9633 9636 11618 11634 
 	}
-	manpower=1500986
-	buildings_max_level_factor=1.000
-	state_category=town
-	local_supplies=12.000
+	manpower = 1500986
+	buildings_max_level_factor = 1.000
+	state_category = town
+	local_supplies = 12.000
+
 }

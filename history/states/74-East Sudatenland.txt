@@ -1,14 +1,9 @@
-state=
-{
-	id=74
-	name="STATE_74"
+state = {
+	id = 74
+	name = "STATE_74"
 	manpower = 820000
-	
 	state_category = rural
-	
-	
-	history=
-	{
+	history = {
 		victory_points = {
 			3583 5
 		}
@@ -17,13 +12,13 @@ state=
 			infrastructure = 4
 			arms_factory = 1
 		}
+		add_core_of = CZE
 		add_core_of = SGR
-
-
+		controller = SGR
 	}
-	provinces= {
+	provinces = {
 		421 3414 3583 6485
  	}
+	local_supplies = 2.0
 
-	local_supplies=2.0 
 }
