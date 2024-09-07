@@ -1,0 +1,23 @@
+state = {
+	id = 244
+	name = "STATE_244"
+	manpower = 195325
+	state_category = rural
+	history = {
+		owner = NVG
+		buildings = {
+			infrastructure = 3 
+		}
+		add_core_of = SOV
+		add_core_of = NVG
+		victory_points = {
+			9197 1
+		}
+		controller = NVG
+	}
+	provinces = {
+		70 3072 3110 6035 6095 9164 9197 11174 
+	}
+	local_supplies = 0.0
+
+}

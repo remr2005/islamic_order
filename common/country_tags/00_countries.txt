@@ -1,3 +1,4 @@
+NVG = "countries/Novgorod_Republic.txt"
 GRN = "countries/North_German.txt"
 RUK = "countries/Russian_Khanate.txt"
 SGR = "countries/South_German.txt"
