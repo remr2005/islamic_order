@@ -4,7 +4,7 @@ state = {
 	manpower = 262721
 	state_category = rural
 	history = {
-		owner = RUK
+		owner = NVG
 		victory_points = {
 			11061 1
 		}
@@ -12,8 +12,8 @@ state = {
 			infrastructure = 1
 		}
 		add_core_of = SOV
-		add_core_of = RUK
-		controller = RUK
+		add_core_of = NVG
+		controller = NVG
 	}
 	provinces = {
 		87 183 3064 3065 3081 3166 6088 6100 6166 6193 6199 9101 9124 9130 9213 11042 11061 11074 11089

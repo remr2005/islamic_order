@@ -7,7 +7,8 @@ state = {
 	}
 	state_category = rural
 	history = {
-		owner = GRN
+		owner = ENG
+
 		add_core_of = SOM
 		add_core_of = GRN
 		victory_points = {

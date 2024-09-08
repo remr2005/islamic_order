@@ -4,7 +4,7 @@ state = {
 	manpower = 577985
 	state_category = town
 	history = {
-		owner = RUK
+		owner = NVG
 		victory_points = {
 			3338 5 
 		}
@@ -17,8 +17,8 @@ state = {
 			}
 		}
 		add_core_of = SOV
-		add_core_of = RUK
-		controller = RUK
+		add_core_of = NVG
+		controller = NVG
 	}
 	provinces = {
 		      140 180 312 3075 3080 3092 3130 3168 3338 6102 6105 9041 9248 11038 11171  
